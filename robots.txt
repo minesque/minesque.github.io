@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://minesque.github.io/sitemap.html.gz
+Sitemap: https://minesque.github.io/app/sitemap.html.gz
+Sitemap: https://minesque.github.io/assets/sitemap.html.gz
+Sitemap: https://minesque.github.io/css/sitemap.html.gz
+Sitemap: https://minesque.github.io/includes/sitemap.html.gz
+Sitemap: https://minesque.github.io/item/sitemap.html.gz
+Sitemap: https://minesque.github.io/src/sitemap.html.gz
